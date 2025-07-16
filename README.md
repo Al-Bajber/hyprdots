@@ -9,10 +9,11 @@
 Clone the repo
 
 ```bash
-  https://github.com/Al-Bajber/hyprdots.git
+  git clone https://github.com/Al-Bajber/hyprdots.git
 ```
 Make the script executable
 ```
+  cd ./hyprdots
   chmod +x ./restore.sh
 ```
 Restore configs
