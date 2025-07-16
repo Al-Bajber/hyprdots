@@ -1,0 +1,18 @@
+# Backup & temp files
+*.bak
+*.swp
+*~
+.cache/
+
+# macOS Finder metadata
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Other common temporary files
+*.tmp
+*.saa
+*.sab
+
