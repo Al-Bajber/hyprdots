@@ -1,0 +1,17 @@
+[[plugin.deps]]
+use = "ndtoan96/ouch"
+rev = "2496cd9"
+hash = "5b9dea47776a30946cfbf83232d18fb1"
+
+[[plugin.deps]]
+use = "TD-Sky/sudo"
+rev = "af70636"
+hash = "a94dcbe9266512806c677138e8591ddb"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "55bf699"
+hash = "dd97eede8e20e59cd2604e8006e470e2"
+
+[flavor]
+deps = []
