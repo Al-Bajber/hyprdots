@@ -9,7 +9,7 @@
 Clone the repo
 
 ```bash
-  git clone https://github.com/Al-Bajber/hyprdots.git
+  git clone https://github.com/theeBajber/hyprdots.git
 ```
 Make the script executable
 ```
